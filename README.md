@@ -2,7 +2,7 @@
 
 ## Experimental Results
 
-# 각각의 모델들은 총 10 epoch를 거쳐 훈련되었으며, batch size=16, lr=0.0001로 설정하였다.
+### 각각의 모델들은 총 10 epoch를 거쳐 훈련되었으며, batch size=16, lr=0.0001로 설정하였다.
 
 | Experiment | Pretrained | Fine-tuning | Accuracy | Top-5 Accuracy | F1 Score |
 |---|---:|---|---:|---:|---:|
