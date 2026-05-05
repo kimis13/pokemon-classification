@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# dataset
+PokemonData/
+
+# model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Streamlit/cache
+.streamlit/
+.cache/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
